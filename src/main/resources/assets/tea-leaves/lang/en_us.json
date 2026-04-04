@@ -1,0 +1,22 @@
+{
+  "item.tea-leaves.tea_leaves": "Tea Leaves",
+  "item.tea-leaves.yellow_tea_leaves": "Yellow Tea Leaves",
+  "item.tea-leaves.white_tea_leaves": "White Tea Leaves",
+  "item.tea-leaves.oolong_tea_leaves": "Oolong Tea Leaves",
+  "item.tea-leaves.black_tea_leaves": "Black Tea Leaves",
+  "item.tea-leaves.dark_tea_leaves": "Dark Tea Leaves",
+  "item.tea-leaves.tea_cup": "Tea Cup",
+  "item.tea-leaves.water_tea_cup": "Tea Cup of Water",
+  "item.tea-leaves.boiled_water_tea_cup": "Tea Cup of Boiled Water",
+  "item.tea-leaves.green_tea": "Green Tea",
+  "item.tea-leaves.yellow_tea": "Yellow Tea",
+  "item.tea-leaves.white_tea": "White Tea",
+  "item.tea-leaves.oolong_tea": "Oolong Tea",
+  "item.tea-leaves.black_tea": "Black Tea",
+  "item.tea-leaves.dark_tea": "Dark Tea",
+  "item.tea-leaves.matcha": "Matcha",
+
+
+  "block.tea-leaves.plant_pot": "Plant Pot"
+
+}

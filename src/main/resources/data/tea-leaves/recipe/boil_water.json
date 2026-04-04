@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0,
+  "ingredient": "tea-leaves:water_tea_cup",
+  "result": {
+    "id": "tea-leaves:boiled_water_tea_cup"
+  }
+}

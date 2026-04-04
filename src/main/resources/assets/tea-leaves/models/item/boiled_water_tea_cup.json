@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tea-leaves:item/boiled_water_tea_cup"
+  }
+}
